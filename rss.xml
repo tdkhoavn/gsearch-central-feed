@@ -167,7 +167,7 @@
         and have some fun along the way!
         </p>]]>
     </description>
-    <pubDate>Sun, 31 December 2023 09:00:00 +0000</pubDate>
+    <pubDate>Sun, 31 Dec 2023 09:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Video mode now only show pages where video is the main content</title>
@@ -180,7 +180,7 @@
       through a page to find that video). This change will start rolling out today, and it could take
       up to a week to complete.
     </description>
-    <pubDate>Mon, 04 December 2023 10:00:00 +0000</pubDate>
+    <pubDate>Mon, 04 Dec 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Adding markup support for vacation rentals</title>
@@ -190,7 +190,7 @@
       whether they're searching for a cozy cabin or a house that sleeps ten. Today, we're announcing a
       new and simpler way for vacation rental integration partners to provide listing data to Google.
     </description>
-    <pubDate>Mon, 04 December 2023 10:00:00 +0000</pubDate>
+    <pubDate>Mon, 04 Dec 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Expanding markup support for Organization details, including Logo structured data</title>
@@ -202,7 +202,7 @@
       various business identifiers. You can continue to provide the logo and url fields to specify
       which image we use as your logo in Google search results.
     </description>
-    <pubDate>Wed, 29 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Wed, 29 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>New in structured data: discussion forum and profile page markup</title>
@@ -213,7 +213,7 @@
       Search features that are designed to show first-person perspectives from social media
       platforms, forums, and other communities.
     </description>
-    <pubDate>Mon, 27 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Mon, 27 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Upcoming deprecation of Crawl Rate Limiter Tool in Search Console</title>
@@ -227,7 +227,7 @@
       publishers, its usefulness has dissipated.
       </p>]]>
     </description>
-    <pubDate>Fri, 24 November 2023 09:00:00 +0000</pubDate>
+    <pubDate>Fri, 24 Nov 2023 09:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Search Quality Raters Guidelines update</title>
@@ -237,7 +237,7 @@
       As a reminder, these guidelines are what are used by our search raters to help evaluate the performance
       of our various search ranking systems, and their ratings don't directly influence ranking.
     </description>
-    <pubDate>Thu, 16 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>List your courses with new course info structured data</title>
@@ -251,7 +251,7 @@
       result, which is a new carousel feature in Google Search that helps learners discover and compare
       courses that fit their unique needs.
     </description>
-    <pubDate>Wed, 15 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>A Q&amp;A on Google Search updates</title>
@@ -263,7 +263,7 @@
       reminders in a Q&amp;A format about how we do updates, why we share about them, and what (if anything)
       creators need to consider when one happens.
     </description>
-    <pubDate>Thu, 2 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Thu, 2 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Search Central Live Taipei 2023</title>
@@ -273,7 +273,7 @@
       Search team and we're looking forward to bringing together the community to learn, share, and
       network.
     </description>
-    <pubDate>Thu, 2 November 2023 10:00:00 +0000</pubDate>
+    <pubDate>Thu, 2 Nov 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Mobile-first indexing has landed</title>
@@ -281,7 +281,7 @@
     <description>
       We're delighted to announce that the trek to Mobile First Indexing is now complete.
     </description>
-    <pubDate>Tue, 31 October 2023 10:00:00 +0000</pubDate>
+    <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Search Central Live Singapore 2023</title>
@@ -295,7 +295,7 @@
       network.
       </p>]]>
     </description>
-    <pubDate>Wed, 18 October 2023 10:00:00 +0000</pubDate>
+    <pubDate>Wed, 18 Oct 2023 10:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Vehicle listings structured data for car dealerships</title>
@@ -304,7 +304,7 @@
       Google Search will start supporting vehicle listings markup, a new way to appear in  vehicle listings on Google.
       It now has its own Search Console Rich result report and is supported in the testing tool.
     </description>
-    <pubDate>Mon, 16 October 2023 05:00:00 +0000</pubDate>
+    <pubDate>Mon, 16 Oct 2023 05:00:00 +0000</pubDate>
   </item>
   <item>
     <title>October 2023 Spam Update</title>
@@ -313,7 +313,7 @@
       We're releasing an update to our spam detections systems today that will improve our coverage
       in many languages and spam types.
     </description>
-    <pubDate>Wed, 04 October 2023 09:00:00 +0000</pubDate>
+    <pubDate>Wed, 04 Oct 2023 09:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Search Central Live Zurich is back!</title>
@@ -322,7 +322,7 @@
       We're very excited to announce that Search Central Live is coming back to Zurich on Tuesday, October 24th, 2023!
       After our last Search Central Live event in Zurich in December 2019, we're back in town for more presentations, Q&amp;A and networking!
     </description>
-    <pubDate>Fri, 29 September 2023 10:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 Sep 2023 10:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
