@@ -242,7 +242,7 @@
       <![CDATA[<p>
       The crawl rate limiter tool in Search Console is being deprecated on Jan 8th, 2024. This tool
       has been
-      <a href="/search/blog/2008/12/more-control-of-googlebots-crawl-rate">available for over a decade</a>,
+      <a href="https://developers.google.com/search/blog/2008/12/more-control-of-googlebots-crawl-rate">available for over a decade</a>,
       but with the improvements we've made to our crawling logic and other tools available to
       publishers, its usefulness has dissipated.
       </p>]]>
