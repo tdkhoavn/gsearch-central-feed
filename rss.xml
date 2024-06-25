@@ -91,11 +91,11 @@
           Today we <a href="https://blog.google/products/search/google-search-update-march-2024" class="external-link">announced</a>
           the March 2024 core update. This is designed to improve the quality of Search by showing less
           content that feels like it was made to attract clicks, and more content that people find useful.
-          We also shared that we have new <a href="/search/docs/essentials/spam-policies">spam policies</a>
+          We also shared that we have new <a href="https://developers.google.com/search/docs/essentials/spam-policies">spam policies</a>
           to better handle the practices that can negatively impact Google's search results. In this post,
           we'll go into more detail for creators about both the update and the spam policies.
         </p>
-      </p>]]>
+      ]]>
     </description>
     <pubDate>Tue, 05 Mar 2024 10:00:00 +0000</pubDate>
   </item>
@@ -106,7 +106,7 @@
     <description>
       <![CDATA[<p>
         We're excited to announce a Search Central Live event in Bucharest, Romania on April 4, 2024.
-        <a href="/search/events/search-central-live">Search Central Live</a>
+        <a href="https://developers.google.com/search/events/search-central-live">Search Central Live</a>
         is our global Google Search event series specifically for site owners, publishers, and SEOs.
       </p>]]>
     </description>
@@ -118,9 +118,9 @@
     <guid>https://developers.google.com/search/blog/2024/02/product-variants</guid>
     <description>
       <![CDATA[<p>
-        In 2022, Google <a href="/search/blog/2022/09/merchant-listings">expanded support for Product structured data</a>, enabling enhanced product experiences in Google Search.
-        Then, in 2023 we <a href="/search/blog/2023/04/shipping-and-returns-information">added support for shipping and returns structured data</a>.
-        Today, we are <a href="/search/docs/appearance/structured-data/product-variants">adding structured data support for Product variants</a>, allowing merchants to easily show more variations of the products they sell, and show shoppers more relevant, helpful results.
+        In 2022, Google <a href="https://developers.google.com/search/blog/2022/09/merchant-listings">expanded support for Product structured data</a>, enabling enhanced product experiences in Google Search.
+        Then, in 2023 we <a href="https://developers.google.com/search/blog/2023/04/shipping-and-returns-information">added support for shipping and returns structured data</a>.
+        Today, we are <a href="https://developers.google.com/search/docs/appearance/structured-data/product-variants">adding structured data support for Product variants</a>, allowing merchants to easily show more variations of the products they sell, and show shoppers more relevant, helpful results.
         Providing variant structured data will also complement and enhance <a href="https://support.google.com/merchants/answer/7439882" class="external-link">merchant center feeds</a>, including <a href="https://support.google.com/merchants/answer/7538732" class="external-link">automated feeds</a>.
       </p>]]>
     </description>
